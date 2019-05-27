@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: "anklepan";
+    src: url("anklepan.woff2") format("woff2"),
+    url("anklepan.ttf") format("truetype"),
+    url("anklepan.eot") format("embedded-opentype");
+    font-weight: normal;
+    font-style: normal;
+}
